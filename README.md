@@ -66,6 +66,6 @@ Uma linha do tempo com os principais momentos da banda:
 
 ## ✍️ Autor
 
-Desenvolvido por **João Pedro**, sem fins lucrativos, apenas por diversão e como forma de homenagear uma das suas bandas favoritas.
+Desenvolvido por **João Pedro**, sem fins lucrativos, apenas por diversão e como forma de homenagear a sua banda favorita.
 
 

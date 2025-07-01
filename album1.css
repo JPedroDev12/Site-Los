@@ -7,13 +7,14 @@ body {
     background-color: #f4f4f4;
 }
 
-.header {
-    background-color: #A52A2A;
+.cabecalho {
+    background-color: #b13939;
     display: flex;
+    align-items: center;
     justify-content: space-evenly;
 }
 
-.header h1 {
+.cabecalho h1 {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -29,7 +30,7 @@ body {
     border-radius: 2vw;
 }
 
-.header a {
+.cabecalho a {
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
@@ -46,4 +47,37 @@ body {
     width: 20%;
     border-radius: 1vw;  
     height: auto;
+<<<<<<< HEAD:mus1.css
+=======
+    border: solid, 2px rgba(0, 0, 0, 0.322);
+}
+
+.musics {
+    display: flex;
+    align-items: center;
+    margin: 2rem;
+}
+
+.music {
+    width: 15%;
+    height: auto;
+    border: solid, 3px, #8a8a8a;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.music a {
+    text-decoration: none;
+    color: #b13939;
+    font-weight: bold;
+    font-size: 1.6vw;
+}
+
+.time {
+    font-weight: bold;
+>>>>>>> f9ef6f19a7dbe9cd1b49243f46186b961587d4a5:album1.css
 }

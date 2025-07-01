@@ -47,18 +47,3 @@ body {
     border-radius: 1vw;  
     height: auto;
 }
-
-.album {
-    margin: 3vw;
-    padding: 1vw;
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(250, 230, 206);
-    border-radius: 2vw;
-}
-
-.album ul {
-    display: flex;
-    gap: 1vw;
-    flex-direction: column;
-}
